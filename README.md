@@ -1,7 +1,7 @@
 # Tatiana-Frolova-Data-Analysis-Python-Project3
 Rhode Island Police Database Analysis Part 2
 
-Questions:¶
+Questions:
 
 Which gender commits more violations? In other words, how many different violations were committed by different gender and what is the conditional probability for different violations committed by gender?
 
