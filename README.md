@@ -1,4 +1,4 @@
-# Tatiana-Frolova-Data-Analysis-Python-Project3
+# Tatiana-Frolova-Data-Analysis-In Python
 Rhode Island Police Database Analysis Part 2
 
 Questions:
